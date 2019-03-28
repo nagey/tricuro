@@ -123,7 +123,6 @@ body {
   background-image: url(../img/washington.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -179,7 +178,6 @@ i.service-icon:hover {
   background-image: url(../img/datacenter.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -191,7 +189,6 @@ i.service-icon:hover {
   background-image: url(../img/bahrain.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -199,7 +196,6 @@ i.service-icon:hover {
   background-image: url(../img/mexico.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -207,7 +203,6 @@ i.service-icon:hover {
   background-image: url(../img/vienna.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -215,7 +210,6 @@ i.service-icon:hover {
   background-image: url(../img/paris.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 
@@ -223,7 +217,6 @@ i.service-icon:hover {
   background-image: url(../img/arab.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 /* Portfolio */
