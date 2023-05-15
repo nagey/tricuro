@@ -120,7 +120,10 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/washington.jpg) no-repeat center center fixed; 
+  background-image: url(../img/washington.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -172,7 +175,10 @@ i.service-icon:hover {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/datacenter.jpg) no-repeat center center fixed; 
+  background-image: url(../img/datacenter.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -180,23 +186,38 @@ i.service-icon:hover {
 }
 
 .callout.bahrain {
-  background: url(../img/bahrain.jpg) no-repeat center center fixed;
+  background-image: url(../img/bahrain.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .callout.mexico {
-  background: url(../img/mexico.jpg) no-repeat center center fixed;
+  background-image: url(../img/mexico.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .callout.vienna {
-  background: url(../img/vienna.jpg) no-repeat center center fixed;
+  background-image: url(../img/vienna.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .callout.paris {
-  background: url(../img/paris.jpg) no-repeat center center fixed;
+  background-image: url(../img/paris.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .callout.arab {
-  background: url(../img/arab.jpg) no-repeat center center fixed;
+  background-image: url(../img/arab.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* Portfolio */
 
